@@ -1,0 +1,96 @@
+{
+    "name": "Main",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "045af695-a0ec-427c-87d1-1e66f374b19e",
+            "actions": [
+                {
+                    "name": "Up",
+                    "type": "Button",
+                    "id": "45a082dc-b70d-4292-afa5-d7cc189933a8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Down",
+                    "type": "Button",
+                    "id": "1b951939-3d02-42ac-8abf-c28cc4e4d188",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Left",
+                    "type": "Button",
+                    "id": "e5fe8025-123b-4ffa-8a0d-0bb49f9eb138",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Right",
+                    "type": "Button",
+                    "id": "735dd393-f849-42bb-b722-9e391a5c43d5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "57407883-612f-48dc-8bf0-82fc4dafc900",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9f5a26aa-2129-487b-b8e1-ccf516a39e91",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6a17a5ba-4001-4a90-a757-965c837c9037",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "16b7c9e0-2d0d-40d0-a7b6-f5b3a4550c66",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Menu",
+            "id": "5e480983-18c1-446e-8314-53e665395609",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
